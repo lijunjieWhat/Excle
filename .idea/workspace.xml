@@ -6,11 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dda940c-6656-4241-b7fc-731024f31ab4" name="Default" comment="excel操作">
+    <list default="true" id="6dda940c-6656-4241-b7fc-731024f31ab4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yuanjun/App.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yuanjun/DemoData.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yuanjun/DemoDataListener.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -370,7 +367,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58111000" />
+    <option name="totallyTimeSpent" value="58136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
